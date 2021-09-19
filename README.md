@@ -23,4 +23,6 @@ As the training of deep neural networks requires a lot of (parallel) computation
 
 https://colab.research.google.com/github/ubi-agni/summerschool-slip-detection/blob/master/tutorial.ipynb.
 
-Of course, if you have a working TensorFlow environment on your local machine, you can use the notebook directly as well.
+Of course, if you have a working TensorFlow environment on your local machine, you can use the notebook directly as well. Just download the [notebook file](https://github.com/ubi-agni/summerschool-slip-detection/blob/master/tutorial.ipynb) (or clone this git repo) and start the notebook from your local browser or using e.g. [VS code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks):
+
+`python3 -m notebook`
